@@ -7,11 +7,11 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
-          node-version: '16'
+          node-version: '18'
       - name: Install dependencies
         run: npm install
       - name: Build
-        run: npm run build
+        run: npx slidev build
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
