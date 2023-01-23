@@ -1,0 +1,20 @@
+{
+  "name": "julia",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.38.3",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-mokkapps": "^1.1.0",
+    "slidev-theme-unicorn": "^1.1.1"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.22",
+    "playwright-chromium": "^1.29.2"
+  }
+}
