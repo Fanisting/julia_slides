@@ -6,7 +6,7 @@ introImage: /headshot.jpg
 aspectRatio: 16/9
 title: Lecture 1
 toc: true
-download: true
+download: 'https://raw.githubusercontent.com/Fanisting/julia_slides/main/slides-export.pdf'
 fonts:
   # basically the text
   sans: 'HarmonyOS Sans SC'
