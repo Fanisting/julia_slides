@@ -19,8 +19,54 @@ fonts:
 # Research Methods in 
 ## Management and Organizations
 
+
+
+<div class="pt-12">
+  <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Press to see course schedules <carbon:arrow-right class="inline"/>
+  </span>
+</div>
+
+
+
 ---
 
-## Lectures
+## Course Schedule
 
-+ [Lecture 1](https://julia-slides-lec1.netlify.app)
+| **Weeks**                                      | **Topics**             | **Methods**                         | **Readings**                                                 |
+| ---------------------------------------------- | ---------------------- | ----------------------------------- | ------------------------------------------------------------ |
+| [Lec 1](https://julia-slides-lec1.netlify.app) | Frameworks             | Causality analysis                  | [Cialdini (2009)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Cialdini_2009_We%20have%20to%20break%20up.pdf)<br />Chatman & Flynn |
+|                                                | Incentives             | Laboratory experiments              | [Hur and Nordgren (2016)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Hur%20and%20Nordgren%20-%202016%20-%20Paying%20for%20performance%20Performance%20incentives%20inc.pdf) <br />[Fiske, Gilbert, and Lindzey (2010)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Fiske%20et%20al_2010_Handbook%20of%20Social%20Psychology,%20Volume%201.pdf) |
+|                                                | Motivation             | Field experiments                   | [Milkman, Minson, and Volpp (2014)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Milkman%20et%20al_2014_Holding%20the%20Hunger%20Games%20Hostage%20at%20the%20Gym.pdf)<br />[Kifner, J. (2001)](https://www.nytimes.com/2001/09/08/nyregion/scholar-sets-off-gastronomic-false-alarm.html) |
+|                                                | Employee Relationships | Mixed method/ Research ethics (IRB) | [Hur, Lee-Yoon, and Whillans (2021)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Hur%20et%20al_2021_Are%20they%20useful.pdf)<br />[Denrell (2005)](https://hbr.org/2005/04/selection-bias-and-the-perils-of-benchmarking) |
+|                                                | Status                 | Archival data (sports)              | [To et al. (2018)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/To%20et%20al_2018_Going%20for%20it%20on%20Fourth%20Down.pdf)<br /> Hur and Lin (2022) |
+
+
+
+---
+
+## Course Schedule (continued)
+
+| **Weeks** | **Topics**        | **Methods**              | **Readings**                                                 |
+| --------- | ----------------- | ------------------------ | ------------------------------------------------------------ |
+|           | Human Resource    | Interviews               | [Rivera (2012)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Rivera_2012_Hiring%20as%20cultural%20matching.pdf) |
+|           | Research Proposal | Proposal presentation    |                                                              |
+|           | Feedback          | Archival data            | Hur, Ruttan, and Shea (2020)<br />[Buckingham and Goodall (2019)](https://github.com/Fanisting/julia_slides/blob/a5133a0c9e6dd2d5b1e6ce50dd20f97a7d893f58/readings/Buckingham_Goodall_2019_The%20feedback%20fallacy.pdf) |
+|           | Diversity         | Computer simulations     | [Chang et al. (2019)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Chang%20et%20al_2019_Diversity%20Thresholds.pdf)<br />Hur (2021) |
+|           | Networks          | Network analysis         | [Yang, Chawla, and Uzzi (2019)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Yang%20et%20al_2019_A%20network%E2%80%99s%20gender%20composition%20and%20communication%20pattern%20predict%20women%E2%80%99s.pdf)<br />[Cross, Liedtka, and Weiss (2005)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Cross%20et%20al_2005_A%20practical%20guide%20to%20social%20networks.pdf) |
+|           | Decision-making   | Behavioral interventions | [Johnson and Goldstein (2003)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Johnson_Goldstein_2003_Do%20Defaults%20Save%20Lives.pdf)<br />[Fox (2015)](https://hbr.org/2015/05/from-economic-man-to-behavioral-economics) |
+
+
+
+---
+
+
+
+## Course Schedule (continued)
+
+| **Weeks** | **Topics**    | **Methods**     | **Readings**                                                 |
+| --------- | ------------- | --------------- | ------------------------------------------------------------ |
+|           | Negotiations  | Cases/exercises | Kang, Hur, and Kilduff (2022)<br />[Galinsky, Mussweiler, and Medvec (2002)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Galinsky%20et%20al_2002_Disconnecting%20outcomes%20and%20evaluations.pdf) |
+|           | Final Podcast | Presentation    | [Gilbert (2021)](https://github.com/Fanisting/julia_slides/blob/ba5a38ec578d52c546af098e3709854162e32a72/readings/Gilbert_How%20To%20Give%20A%20Good%20Research%20Presentation.pdf) |
+|           | Final Paper   | Reviewing       | Example response letter                                      |
+
