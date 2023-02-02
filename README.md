@@ -4,7 +4,7 @@ BY [Julia D. Hur](https://juliadhur.com) at NYU Shanghai
 
 | **Weeks** | **Topics**             | **Methods**                         | **Readings**                                                 |
 | --------- | ---------------------- | ----------------------------------- | ------------------------------------------------------------ |
-| Lec 1     | Frameworks             | Organizational Behavior Research    | [Cialdini (2009)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/7903033)<br />[Chatman & Flynn](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8283986) |
+| [Lec 1](https://julia-slides-lec1.netlify.app/)     | Frameworks             | Organizational Behavior Research    | [Cialdini (2009)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/7903033)<br />[Chatman & Flynn](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8283986) |
 | [Lec 2](https://julia-slides-lec2.netlify.app/)     | Incentives             | Laboratory experiments              | [Hur and Nordgren (2016)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317157) <br />[Wilson, Aronson, and Carlsmith (2010)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317164) |
 |           | Motivation             | Field experiments                   | [Milkman, Minson, and Volpp (2014)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317202)<br />[Kifner, J. (2001)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317203) |
 |           | Employee Relationships | Mixed method/ Research ethics (IRB) | [Hur, Lee-Yoon, and Whillans (2021)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317249)<br />[Denrell (2005)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317240) |
