@@ -52,7 +52,7 @@ fonts:
 | --------- | ----------------- | --------------------------- | ------------------------------------------------------------ |
 |           | Human Resource    | Interviews                  | Rivera (2012)<br />Maxwell J.A. (1992)                       |
 |           | Research Proposal | Proposal presentation       |                                                              |
-|           | Feedback          | Archival data               | Hur, Ruttan, and Shea (2020)<br />(van den Assem, van Dolder, and Thaler 2012)|
+|           | Feedback          | Archival data               | Hur, Ruttan, and Shea (2020)<br />van den Assem, van Dolder, and Thaler (2012)|
 |           | Leadership        | Content/linguistic analyses | Gamache, D. L. et al. (2015)<br />Hur J.D. et al. (in progress) |
 |           | Networks          | Network analysis            | Yang, Chawla, and Uzzi (2019)<br />Cross, Liedtka, and Weiss (2005) |
 |           | Decision-making   | Behavioral interventions    | Johnson and Goldstein (2003)<br />Fox (2015)                 |
