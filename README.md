@@ -8,7 +8,7 @@ BY [Julia D. Hur](https://juliadhur.com) at NYU Shanghai
 | [Lec 2](https://julia-slides-lec2.netlify.app/)     | Incentives             | Laboratory experiments              | [Hur and Nordgren (2016)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317157) <br />[Wilson, Aronson, and Carlsmith (2010)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317164) |
 |  [Lec 3](https://julia-slides-lec3.netlify.app/)          | Motivation             | Field experiments                   | [Milkman, Minson, and Volpp (2014)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317202)<br />[Kifner, J. (2001)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317203) |
 |  [Lec 4](https://julia-slides-lec4.netlify.app/)          | Employee Relationships | Mixed method/ Research ethics (IRB) | [Hur, Lee-Yoon, and Whillans (2021)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317249)<br />[Denrell (2005)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317240) |
-|           | Status                 | Archival data (sports)              | To et al. (2018)<br /> Hur and Lin (2022)                    |
+|    [Lec 4](https://julia-slides-lec4.netlify.app)       | Status                 | Archival data (sports)              | To et al. (2018)<br /> Hur and Lin (2022)                    |
 |           | Human Resource    | Interviews                  | Rivera (2012)<br />Maxwell J.A. (1992)                       |
 |           | Research Proposal | Proposal presentation       |                                                              |
 |           | Feedback          | Archival data               | Hur, Ruttan, and Shea (2020)<br />Buckingham and Goodall (2019) |
