@@ -40,7 +40,7 @@ fonts:
 | [Lec 2](https://julia-slides-lec2.netlify.app)      | Incentives             | Laboratory experiments              | [Hur and Nordgren (2016)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317157) <br />[Wilson, Aronson, and Carlsmith (2010)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317164) |
 |    [Lec 3](https://julia-slides-lec3.netlify.app)       | Motivation             | Field experiments                   | [Milkman, Minson, and Volpp (2014)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317202)<br />[Kifner, J. (2001)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317203) |
 |     [Lec 4](https://julia-slides-lec4.netlify.app)      | Employee Relationships | Mixed method/ Research ethics (IRB) | [Hur, Lee-Yoon, and Whillans (2021)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8317249)<br />[Luca, M. (2014)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8373165) |
-|  [Lec 5](https://julia-slides-lec5.netlify.app)         | Status                 | Archival data (sports)              | To et al. (2018)<br /> Hur and Lin (2022)                    |
+|  [Lec 5](https://julia-slides-lec5.netlify.app)         | Status                 | Archival data (sports)              | [To et al. (2018)](https://brightspace.nyu.edu//content/enforced/245250-SP23_MGMT-SHU_401_SH_001/Week5_Going%20for%20it%20on%20fourth%20down.pdf?d2lSessionVal=IQqBo84Jcwc90EZK44o3L6c7O&ou=245250&d2l_body_type=3&retargetQuicklinks=true)<br /> [Hur and Lin (2022)](https://brightspace.nyu.edu//content/enforced/245250-SP23_MGMT-SHU_401_SH_001/Week5_Diversity_revision_Manuscript.pdf?d2lSessionVal=IQqBo84Jcwc90EZK44o3L6c7O&ou=245250&d2l_body_type=3&retargetQuicklinks=true)                    |
 
 
 
