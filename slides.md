@@ -50,7 +50,7 @@ fonts:
 
 | **Weeks** | **Topics**        | **Methods**                 | **Readings**                                                 |
 | --------- | ----------------- | --------------------------- | ------------------------------------------------------------ |
-|           | Human Resource    | Interviews                  | Rivera (2012)<br />Maxwell J.A. (1992)                       |
+| [Lec 6](https://julia-slides-lec6.netlify.app)     | Human Resource    | Interviews                  | [Rivera (2012)](https://brightspace.nyu.edu//content/enforced/245250-SP23_MGMT-SHU_401_SH_001/Week6_Hiring%20as%20cultural%20matching%20-%20Copy.pdf?d2lSessionVal=IQqBo84Jcwc90EZK44o3L6c7O&ou=245250&d2l_body_type=3&retargetQuicklinks=true)<br />[Maxwell J.A. (1992)](https://brightspace.nyu.edu//content/enforced/245250-SP23_MGMT-SHU_401_SH_001/Week6_Understanding%20and%20Validity%20in%20Qualitative%20Research.pdf?d2lSessionVal=IQqBo84Jcwc90EZK44o3L6c7O&ou=245250&d2l_body_type=3&retargetQuicklinks=true)                       |
 |           | Research Proposal | Proposal presentation       |                                                              |
 |           | Feedback          | Archival data               | Hur, Ruttan, and Shea (2020)<br />van den Assem, van Dolder, and Thaler (2012)|
 |           | Leadership        | Content/linguistic analyses | Gamache, D. L. et al. (2015)<br />Hur J.D. et al. (in progress) |
