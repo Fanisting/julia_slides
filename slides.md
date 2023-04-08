@@ -54,8 +54,8 @@ fonts:
 |           | Research Proposal | Proposal presentation       |                                                              |
 | [Lec 8](https://julia-slides-lec8.netlify.app)          | Feedback          | Archival data               | [Hur, Ruttan, and Shea (2020)](https://brightspace.nyu.edu//content/enforced/245250-SP23_MGMT-SHU_401_SH_001/Week8_Huretal_JEPG2020.pdf?d2lSessionVal=Qz9K6aKdGCFlajJjXU3oEefln&ou=245250&d2l_body_type=3&retargetQuicklinks=true)<br /> [Bhattacharjee 2013](https://brightspace.nyu.edu/d2l/le/content/245250/topics/files/download/8424071/DirectFileTopicDownload)|
 | [Lec 9](https://julia-slides-lec9.netlify.app)          | Leadership        | Content/linguistic analyses | Gamache, D. L. et al. (2015)<br />Hur J.D. et al. (in progress) |
-| [Lec 10](https://julia-slides-lec10.netlify.app)          | Networks          | Network analysis            | Yang, Chawla, and Uzzi (2019)<br />Cross, Liedtka, and Weiss (2005) |
-|           | Decision-making   | Behavioral interventions    | Johnson and Goldstein (2003)<br />Fox (2015)                 |
+| [Lec 10](https://julia-slides-lec10.netlify.app)          | Networks          | Network analysis            | [Yang, Chawla, and Uzzi (2019)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492214)<br />[Cross, Liedtka, and Weiss (2005)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492215) |
+| [Lec 11](https://julia-slides-lec11.netlify.app)          | Decision-making   | Behavioral interventions    | [Johnson and Goldstein (2003)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492218)<br />[Fox (2015)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492217)                 |
 
 
 
@@ -67,7 +67,7 @@ fonts:
 
 | **Weeks** | **Topics**    | **Methods**          | **Readings**                                      |
 | --------- | ------------- | -------------------- | ------------------------------------------------- |
-|           | Diversity     | Computer simulations | Chang, E. H. et al. (2019)<br />Hur, J. D. (2022) |
+|  [Lec 12](https://julia-slides-lec12.netlify.app)          | Diversity     | Computer simulations | [Chang, E. H. et al. (2019)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492232)<br />[Hur, J. D. (2022)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492236) |
 |           | Final Podcast | Presentation         | Gilbert (2021)                                    |
 |           | Final Paper   | Reviewing            | Example response letter                           |
 
