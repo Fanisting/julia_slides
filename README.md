@@ -1,5 +1,5 @@
 # Research Methods in Management and Organization
-Lectures by [Julia D. Hur](https://juliadhur.com) at NYU Shanghai, [slides](https://github.com/Fanisting/julia_slides/tree/main/Lectures) generation and [website](julia-slides.netlify.app) construction by Xuhang Fan.  
+Lectures by [Julia D. Hur](https://juliadhur.com) at NYU Shanghai, [slides](https://github.com/Fanisting/julia_slides/tree/main/Lectures) generation and [website](https://julia-slides.netlify.app/1) construction by Xuhang Fan.  
 
 ## Course Schedule
 
