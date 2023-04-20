@@ -67,9 +67,7 @@ fonts:
 
 | **Weeks** | **Topics**    | **Methods**          | **Readings**                                      |
 | --------- | ------------- | -------------------- | ------------------------------------------------- |
-|  [Lec 12](https://julia-slides-lec12.netlify.app)          | Diversity     | Computer simulations | [Chang, E. H. et al. (2019)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492232)<br />[Hur, J. D. (2022)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492236) |
-|           | Final Podcast | Presentation         | Gilbert (2021)                                    |
-|           | Final Paper   | Reviewing            | Example response letter                           |
+|  [Lec 12](https://julia-slides-lec12.netlify.app)          | Diversity     | Computer simulations | [Chang, E. H. et al. (2019)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492232)<br/>[Hur, J. D. (2022)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492236) |
 
 
 ---
