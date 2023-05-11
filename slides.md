@@ -57,12 +57,3 @@ fonts:
 | [Lec 11](https://julia-slides-lec11.netlify.app)          | Decision-making   | Behavioral interventions    | [Johnson and Goldstein (2003)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492218)<br />[Fox (2015)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492217)                 |
 |  [Lec 12](https://julia-slides-lec12.netlify.app)          | Diversity     | Computer simulations | [Chang, E. H. et al. (2019)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492232)<br/>[Hur, J. D. (2022)](https://brightspace.nyu.edu/d2l/le/lessons/245250/topics/8492236) |
 
----
-
-## A video 
-
-<br>
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jctM1Rcaeo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</center>
